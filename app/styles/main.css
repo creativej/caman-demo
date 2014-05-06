@@ -4,10 +4,12 @@
     text-align: center;
     width: 400px;
     height: 400px;
-    margin: 30px auto;
+    margin: 50px auto 30px;
+    padding: 20px;
 }
 
 .shirt-image {
+    width: 330px;
     height: 400px;
 }
 
